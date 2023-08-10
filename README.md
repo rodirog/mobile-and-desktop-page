@@ -1,8 +1,5 @@
 # Recreating a responsive layout
-![image](https://github.com/rodirog/mobile-and-desktop-page/assets/101756238/059c7492-90be-4130-ab0a-e7d162066c09)
-![image](https://github.com/rodirog/mobile-and-desktop-page/assets/101756238/bdac7d03-1740-4d2a-a4de-401de49f6242)
-![image](https://github.com/rodirog/mobile-and-desktop-page/assets/101756238/bb6527e8-fa6c-4fcb-a023-57d79683e3b0)
-<div style="position: relative; padding-bottom: 65.49450549450549%; height: 0;"><iframe src="https://www.loom.com/embed/0c54c12517ce48b49fb8ee5f4fb62bc9?sid=3e1d35d6-f377-4d02-b0e3-2a58dbb4f376" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![ezgif com-gif-maker](https://github.com/rodirog/mobile-and-desktop-page/assets/101756238/6fbe253f-be3b-4e1d-9547-9f60513111e6)
 
 A responsive web page recreated from an existing Figma design
 
