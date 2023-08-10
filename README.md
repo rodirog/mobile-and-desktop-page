@@ -1,4 +1,4 @@
-# 🍦 A responsive web page
+# 🍦 A responsive Web Page
 ![ezgif com-gif-maker](https://github.com/rodirog/mobile-and-desktop-page/assets/101756238/6fbe253f-be3b-4e1d-9547-9f60513111e6)
 
 
